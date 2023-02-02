@@ -1,0 +1,15 @@
+E:\_git_\_c#_\Ex_01\C#_ex02\bin\Debug\net7.0\C#_ex02.exe
+E:\_git_\_c#_\Ex_01\C#_ex02\bin\Debug\net7.0\C#_ex02.deps.json
+E:\_git_\_c#_\Ex_01\C#_ex02\bin\Debug\net7.0\C#_ex02.runtimeconfig.json
+E:\_git_\_c#_\Ex_01\C#_ex02\bin\Debug\net7.0\C#_ex02.dll
+E:\_git_\_c#_\Ex_01\C#_ex02\bin\Debug\net7.0\C#_ex02.pdb
+E:\_git_\_c#_\Ex_01\C#_ex02\obj\Debug\net7.0\C#_ex02.csproj.AssemblyReference.cache
+E:\_git_\_c#_\Ex_01\C#_ex02\obj\Debug\net7.0\C#_ex02.GeneratedMSBuildEditorConfig.editorconfig
+E:\_git_\_c#_\Ex_01\C#_ex02\obj\Debug\net7.0\C#_ex02.AssemblyInfoInputs.cache
+E:\_git_\_c#_\Ex_01\C#_ex02\obj\Debug\net7.0\C#_ex02.AssemblyInfo.cs
+E:\_git_\_c#_\Ex_01\C#_ex02\obj\Debug\net7.0\C#_ex02.csproj.CoreCompileInputs.cache
+E:\_git_\_c#_\Ex_01\C#_ex02\obj\Debug\net7.0\C#_ex02.dll
+E:\_git_\_c#_\Ex_01\C#_ex02\obj\Debug\net7.0\refint\C#_ex02.dll
+E:\_git_\_c#_\Ex_01\C#_ex02\obj\Debug\net7.0\C#_ex02.pdb
+E:\_git_\_c#_\Ex_01\C#_ex02\obj\Debug\net7.0\C#_ex02.genruntimeconfig.cache
+E:\_git_\_c#_\Ex_01\C#_ex02\obj\Debug\net7.0\ref\C#_ex02.dll
